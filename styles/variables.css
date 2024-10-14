@@ -1,1 +1,15 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+
+:root {
+    --background-color: #000;
+    --header-title: #00cc14;
+    --button-color: #00cc14;
+    --weight-title:785;
+    --weight-subtitle:465;
+    --font-family: "Press Start 2P-Regular", sans-serif;
+    --second-family: "Inter-Variable", sans-serif;
+    --background-image: url(../images/background_1.png);
+    --card-picture: url(../images/card_1.png);
+}
+

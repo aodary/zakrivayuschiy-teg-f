@@ -36,7 +36,7 @@
 
 
 @media (prefers-color-scheme: light) {
-    .theme-auto{
+    .theme-auto {
     --background-color: #fff;
     --header-title: #000;
     --button-color: #000;
@@ -52,7 +52,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    .theme-auto{
+    .theme-auto {
         --background-color: #000;
         --header-title: #00cc14;
         --button-color: #00cc14;

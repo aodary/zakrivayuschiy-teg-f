@@ -276,7 +276,7 @@
   background-color:transparent;
 }
 
-.card__icon-button:focus{
+.card__icon-button:focus {
   outline: 0;
 }
 
@@ -346,13 +346,13 @@
   transition: fill 0.3s ease 0.06s;
 }
 
-.like-icon.is-liked .heart{
+.like-icon.is-liked .heart {
   transition: 0.1s;
   animation: heart 0.4s ease-in 1 normal;
   transform-origin: center;
 }
 
-@keyframes  heart  {
+@keyframes heart {
   from {
     transform:scale(1)
   }

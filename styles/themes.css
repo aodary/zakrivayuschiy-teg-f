@@ -12,8 +12,6 @@
     --decore-title:#00cc14;
     --weight-title:785;
     --weight-subtitle:465;
-    --font-family: "Press Start 2P-Regular", sans-serif;
-    --second-family: "Inter-Variable", sans-serif;
     --bg-gradient:repeating-linear-gradient(to right, #000 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     repeating-linear-gradient(to bottom, #000 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     linear-gradient(to bottom, #007f0c 0%, #004306 100%);
@@ -27,8 +25,6 @@
     --decore-title:#fff;
     --weight-title:700;
     --weight-subtitle:400;
-    --font-family: "Press Start 2P-Regular", sans-serif;
-    --second-family: "Inter-Variable", sans-serif;
     --bg-gradient:repeating-linear-gradient(to right, #d3d3d3 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     repeating-linear-gradient(to bottom, #d3d3d3 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     linear-gradient(to bottom, #e7e7e7 0%, #1a1a1a 100%);
@@ -43,8 +39,6 @@
     --weight-title:700;
     --weight-subtitle:400;
     --decore-title:#fff;
-    --font-family: "Press Start 2P-Regular", sans-serif;
-    --second-family: "Inter-Variable", sans-serif;
     --bg-gradient:repeating-linear-gradient(to right, #d3d3d3 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     repeating-linear-gradient(to bottom, #d3d3d3 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     linear-gradient(to bottom, #e7e7e7 0%, #1a1a1a 100%);
@@ -59,8 +53,6 @@
         --decore-title:#00cc14;
         --weight-title:785;
         --weight-subtitle:465;
-        --font-family: "Press Start 2P-Regular", sans-serif;
-    --second-family: "Inter-Variable", sans-serif;
         --bg-gradient:repeating-linear-gradient(to right, #000 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     repeating-linear-gradient(to bottom, #000 0 2px, rgba(255, 255, 255, 0) 2px 4px), 
     linear-gradient(to bottom, #007f0c 0%, #004306 100%);

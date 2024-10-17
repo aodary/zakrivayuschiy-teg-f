@@ -227,6 +227,7 @@
   cursor:pointer;
   border: 2px solid var(--header-title);
   background-color: var(--background-color);
+  transition: 0.3s ease;
 }
 
 .button:focus {

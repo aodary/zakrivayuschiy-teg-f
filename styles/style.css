@@ -178,7 +178,7 @@
 
 }
 
-@supports (-webkit-text-stroke: 1px var(--background-color)) or (text-stroke:1px var(--background-color))  {
+@supports (-webkit-text-stroke: 1px var(--background-color)) or (text-stroke:1px var(--background-color)) {
   .watetmark {
     -webkit-text-stroke: 1px var(--background-color);
     text-stroke:1px var(--background-color);
@@ -226,7 +226,7 @@
 .button {
   cursor:pointer;
   border: 2px solid var(--header-title);
-  background-color: var(--background-color);  
+  background-color: var(--background-color);
 }
 
 .button:focus {
@@ -315,7 +315,7 @@
 
 .like-icon .contour {
   fill:var(--header-title);
-  transition: fill 0.1s linear; 
+  transition: fill 0.1s linear;
 }
 
 .like-icon:hover .core {
@@ -371,7 +371,7 @@
   margin-block-end: 100px;
 }
 
-.box__btn{
+.box__btn {
   position: relative;
   width: 306px;
   height: 80px;
